@@ -29,10 +29,12 @@ CREATE TABLE `food` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=41 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
+#Meu linkedin https://www.linkedin.com/in/thiago-pequeno-de-castro-2632bb248/
 
-Não esqueça de trocar as credencias do seu banco de dados no Backend em JAVA em APLICATION PROPERTIES
-Troque a Root para seu usuario;
-Troque a senha para sua senha;
+#Não esqueça de trocar as credencias do seu banco de dados no Backend em JAVA em APLICATION PROPERTIES
+#Troque a Root para seu usuario;
+#Troque a senha para sua senha;
+
 
 
 #Mysql
